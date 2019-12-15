@@ -73,7 +73,7 @@ body {
         border: 0;
         padding: 0;
         border-radius: 4px;
-        font-family: 'Hind';
+        font-family: 'Source Sans Pro', sans-serif;
         font-weight: 500;
         font-size: 18px; }
         body .header .header-wrap .header_button:hover, body .header .header-wrap .section .section_banner .section_banner_button:hover, body .section .section_banner .header .header-wrap .section_banner_button:hover {
@@ -83,7 +83,7 @@ body {
       body .header .header-wrap .login {
         margin-left: 150px;
         font-size: 20px;
-        font-family: 'Source Sans Pro', sans-serif;
+        font: "Hind", sans-serif;
         font-weight: 600;
         color: white; }
   body .section {
@@ -94,13 +94,13 @@ body {
     position: relative;
     margin-bottom: 150px; }
     body .section .section_text {
+      font-family: 'Source Sans Pro', sans-serif;
       margin-left: 13px;
       font-size: 42px;
       font-weight: 600;
       color: #2c2f3c;
       position: relative;
       margin-top: 36px;
-      font-family: 'Source Sans Pro', sans-serif;
       max-width: 418px;
       width: 100%; }
       body .section .section_text::after {
@@ -131,7 +131,7 @@ body {
           height: 100%;
           border-radius: 10px; }
         body .section .section_card_wrap .section_card .section_card_heading {
-          font-family: 'Hind';
+          font-family: 'Source Sans Pro', sans-serif;
           padding-top: 50px;
           font-size: 24px;
           font-weight: 600;
@@ -177,7 +177,7 @@ body {
       body .section .section_banner .section_banner_heading {
         position: relative;
         margin: 0;
-        font-family: 'Hind';
+        font-family: 'Source Sans Pro', sans-serif;
         font-size: 30px;
         font-weight: 700;
         color: #2c2f3c;
@@ -207,7 +207,7 @@ body {
         border: 0;
         padding: 0;
         border-radius: 4px;
-        font-family: 'Hind';
+        font-family: 'Source Sans Pro', sans-serif;
         font-weight: 500;
         font-size: 18px;
         margin: -5px -10px 0 0; }
@@ -263,5 +263,3 @@ body {
         padding: 50px 10px 0 0;
         font: 400 20px "Hind", sans-serif;
         color: #c0c3ce; }
-
-/*# sourceMappingURL=style1.css.map */
